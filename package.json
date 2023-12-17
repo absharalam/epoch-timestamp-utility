@@ -1,0 +1,30 @@
+{
+  "name": "epoch-timestamp-utility",
+  "version": "1.0.0",
+  "description": "This library built on the top of moments and normal javascript Date object to make epoch timestamp use easy",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/absharalam/epoch-timestamp-utility.git"
+  },
+  "keywords": [
+    "epoch",
+    "timestamp",
+    "utility",
+    "epoch timestamp utility",
+    "epoch-to-human-datetime"
+  ],
+  "author": "Md Abshar Alam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/absharalam/epoch-timestamp-utility/issues"
+  },
+  "homepage": "https://github.com/absharalam/epoch-timestamp-utility#readme",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.43"
+  }
+}
